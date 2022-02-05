@@ -60,15 +60,84 @@ Assignments, Quizzes, and Grading
 
 The following assessment items will count towards your final grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 2 Quizzes | 10%+10%=20% |
-| 10 written responses to reading assignments (RD1-RD10) | 5% |
-| 3 Sound Design exercises (EX1-EX3) | 5%+5%+10%=20% |
-| 3 Pd assignments (PD1-PD3) | 5%+5%+10%=20% |
-| 1 Written assignment (WR) | 5% |
-| 1 Recording / Editing assignment (ED) | 5% |
-| Final Project in 4 parts (FP1-FP4) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%+10%=20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 written responses to reading assignments (RD1-RD10)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Sound Design exercises (EX1-EX3)
+{{< tdclose >}}
+{{< tdopen >}}
+5%+5%+10%=20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Pd assignments (PD1-PD3)
+{{< tdclose >}}
+{{< tdopen >}}
+5%+5%+10%=20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 Written assignment (WR)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 Recording / Editing assignment (ED)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project in 4 parts (FP1-FP4)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 You need to complete all assignments and quizzes in order to pass this course, and you are expected to submit all assignments on time. Late submissions will incur a penalty of usually one letter grade per 24 hours.
 
@@ -96,31 +165,496 @@ If you have a laptop, please bring it along to all class meetings that are marke
 Calendar
 --------
 
-| LEC # | TOPICS | BRING LAPTOP | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Why and How to Design Sound? | &nbsp; |
-| 2 | The Sound Design Process | &nbsp; |  {{< br >}}{{< br >}} EX1 out {{< br >}}{{< br >}} RD1 due {{< br >}}{{< br >}}  |
-| 3 | Everyday Sound Objects | &nbsp; |  {{< br >}}{{< br >}} EX1 due {{< br >}}{{< br >}} RD2 due {{< br >}}{{< br >}}  |
-| 4 | Introduction to Pure Data (Pd) | ✓ |  {{< br >}}{{< br >}} PD1 out {{< br >}}{{< br >}} RD3 due {{< br >}}{{< br >}}  |
-| 5 | Physics of Sound | &nbsp; | RD4 due |
-| 6 | Pd Programming Concepts | ✓ |  {{< br >}}{{< br >}} PD2 out {{< br >}}{{< br >}} PD1 due {{< br >}}{{< br >}}  |
-| 7 | Perception of Sound | &nbsp; | RD5 due  |
-| 8 | Soundwalk | &nbsp; |  {{< br >}}{{< br >}} WR out {{< br >}}{{< br >}} PD2 due {{< br >}}{{< br >}}  |
-| 9 | Shaping Sound with Pd | ✓ |  {{< br >}}{{< br >}} PD3 out {{< br >}}{{< br >}} WR due {{< br >}}{{< br >}}  |
-| 10 | Digital Audio Theory | &nbsp; | RD6 due  |
-| 11 | Sound Recording and Editing Techniques | ✓ |  {{< br >}}{{< br >}} ED out {{< br >}}{{< br >}} PD3 due {{< br >}}{{< br >}}  |
-| 12 | Quiz 1; Review, Preview | &nbsp; |  {{< br >}}{{< br >}} FP1 out {{< br >}}{{< br >}} Quiz 1 in class {{< br >}}{{< br >}}  |
-| 13 | Analysis and Requirements Specification | ✓ |  {{< br >}}{{< br >}} EX2 out {{< br >}}{{< br >}} ED due {{< br >}}{{< br >}}  |
-| 14 | Additive Synthesis | ✓ | RD7 due  |
-| 15 | Research and Model Making | ✓ |  {{< br >}}{{< br >}} FP2 out {{< br >}}{{< br >}} EX2 due {{< br >}}{{< br >}}  |
-| 16 | Waveshaping and Wavetable Synthesis | ✓ | RD8 due  |
-| 17 | Final Project: FP1 Student Presentations | ✓ | FP1 due |
-| 18 | Modulation Synthesis (AM and FM) | ✓ | RD9 due  |
-| 19 | Method Selection and Implementation | ✓ |  {{< br >}}{{< br >}} EX3 out {{< br >}}{{< br >}} FP2 due {{< br >}}{{< br >}}  |
-| 20 | Steam Train Drive-by | ✓ |  {{< br >}}{{< br >}} FP3 out {{< br >}}{{< br >}} EX3 due {{< br >}}{{< br >}}  |
-| 21 | Granular Synthesis | ✓ | RD10 due  |
-| 22 | Final Project: FP3 Student Presentations | ✓ |  {{< br >}}{{< br >}} FP4 out {{< br >}}{{< br >}} FP3 due {{< br >}}{{< br >}}  |
-| 23 | Quiz 2; Student Presentations | ✓ | Quiz 2 in Class |
-| 24 | Thunder | ✓ | &nbsp; |
-| 25 | Music Synthesizers | ✓ | &nbsp; |
-| 26 |  {{< br >}}{{< br >}} Final Project: FP4 Presentations {{< br >}}{{< br >}}  | ✓ | FP4 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+BRING LAPTOP
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Why and How to Design Sound?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Sound Design Process
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+EX1 out
+
+RD1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Everyday Sound Objects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+EX1 due
+
+RD2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Pure Data (Pd)
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PD1 out
+
+RD3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Physics of Sound
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+RD4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pd Programming Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PD2 out
+
+PD1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Perception of Sound
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+RD5 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Soundwalk
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+WR out
+
+PD2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Shaping Sound with Pd
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PD3 out
+
+WR due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Digital Audio Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+RD6 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Sound Recording and Editing Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ED out
+
+PD3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1; Review, Preview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FP1 out
+
+Quiz 1 in class
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis and Requirements Specification
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+EX2 out
+
+ED due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Additive Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+RD7 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Research and Model Making
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FP2 out
+
+EX2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Waveshaping and Wavetable Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+RD8 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: FP1 Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+FP1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Modulation Synthesis (AM and FM)
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+RD9 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Method Selection and Implementation
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+EX3 out
+
+FP2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Steam Train Drive-by
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FP3 out
+
+EX3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Granular Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+RD10 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: FP3 Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+FP4 out
+
+FP3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2; Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 in Class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Thunder
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Music Synthesizers
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Project: FP4 Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+✓
+{{< tdclose >}}
+{{< tdopen >}}
+FP4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

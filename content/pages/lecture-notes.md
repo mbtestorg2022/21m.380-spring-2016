@@ -26,31 +26,252 @@ Selected Lecture Outlines
 
 These outlines summarize main points of the lecture, and include descriptions of in-class activities and supplemental information.
 
-| LEC # | LECTURE OUTLINES |
-| --- | --- |
-| 1 | Why and how to design sound? _(no outline)_ |
-| 2 | [The sound design process (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec02) |
-| 3 | [Everyday sound objects (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec03) |
-| 4 | [Introduction to Pure Data (Pd) (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec04) |
-| 5 | [Physics of sound (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec05) |
-| 6 | [Pd programming concepts (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec06) |
-| 7 | [Perception of sound (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec07) |
-| 8 | Soundwalk _(no outline)_ |
-| 9 | [Shaping sound with Pd (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec09) |
-| 10 | [Digital audio theory (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec10) |
-| 11 | [Sound recording and editing techniques (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec11) |
-| 12 | Quiz 1; review, preview _(no outline)_ |
-| 13 | [Analysis and requirements specification (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec13) |
-| 14 | [Additive synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec14) |
-| 15 | [Research and model making (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec15) |
-| 16 | [Waveshaping and wavetable synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec16) |
-| 17 | Final project: FP1 student presentations _(no outline)_ |
-| 18 | Modulation synthesis (AM and FM) _(no outline)_ |
-| 19 | Method selection and implementation _(no outline)_ |
-| 20 | Steam train drive-by _(no outline)_ |
-| 21 | [Granular synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec21) |
-| 22 | Final project: FP3 student presentations _(no outline)_ |
-| 23 | Quiz 2; student presentations _(no outline)_ |
-| 24 | [Thunder (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec24) |
-| 25 | [Music synthesizers (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec25) |
-| 26 | Final project: FP4 presentations _(no outline)_
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE OUTLINES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Why and how to design sound? _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[The sound design process (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec02)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Everyday sound objects (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec03)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Introduction to Pure Data (Pd) (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec04)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Physics of sound (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec05)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Pd programming concepts (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec06)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Perception of sound (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec07)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Soundwalk _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+[Shaping sound with Pd (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec09)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+[Digital audio theory (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Sound recording and editing techniques (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1; review, preview _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Analysis and requirements specification (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+[Additive synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Research and model making (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[Waveshaping and wavetable synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Final project: FP1 student presentations _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Modulation synthesis (AM and FM) _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Method selection and implementation _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Steam train drive-by _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+[Granular synthesis (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec21)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Final project: FP3 student presentations _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2; student presentations _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+[Thunder (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec24)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+[Music synthesizers (PDF)]({{< baseurl >}}/resources/mit21m_380s16_lec25)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final project: FP4 presentations _(no outline)_
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

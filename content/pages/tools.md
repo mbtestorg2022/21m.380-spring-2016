@@ -16,20 +16,207 @@ Studio Headphones (or Nearfield Monitor Loudspeakers)
 
 It is strongly recommended that you invest in a pair of studio headphones. If you have to work in an environment that is not well acoustically isolated, opt for closed-back headphones. If you have a silent space to work in, you can opt for semi-closed or semi-open headphones, which are more comfortable to wear. See Table 1 below for recommendations. Completely open headphones tend to be expensive, but can yield great results in sufficiently quiet environments. Don't buy earphones (aka "earbuds").
 
-| MANUFACTURER AND MODEL | PRICE | BACK | DESCRIPTION |
-| --- | --- | --- | --- |
-| Beyerdynamic DT770 Pro 80Ω | $175 | closed | use on laptop Headphone Out |
-| Beyerdynamic DT770 Pro 250Ω | $175 | closed | use on separate amp |
-| Audio-Technica ATH-M series | $50–$170 | closed | M20x, M30x, M40x, M50x |
-| Sennheiser HD 25-1 II | $170 | closed | &nbsp; |
-| Sennheiser HD 25-SP II | $120 | closed | &nbsp; |
-| Sennheiser HD280 Pro | $90 | closed | &nbsp; |
-| Shure SRH440 | $100 | closed | &nbsp; |
-| AKG K240 MKII | $150 | semi-open | &nbsp; |
-| AKG K240 Studio | $85 | semi-open | at Lewis Music Library |
-| AKG K99 | $80 | semi-open | &nbsp; |
-| AKG K77 | $50 | semi-closed | &nbsp; |
-| AKG K44 | $30 | closed | Phasing out of production 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MANUFACTURER AND MODEL
+{{< thclose >}}
+{{< thopen >}}
+PRICE
+{{< thclose >}}
+{{< thopen >}}
+BACK
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Beyerdynamic DT770 Pro 80Ω
+{{< tdclose >}}
+{{< tdopen >}}
+$175
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+use on laptop Headphone Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Beyerdynamic DT770 Pro 250Ω
+{{< tdclose >}}
+{{< tdopen >}}
+$175
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+use on separate amp
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Audio-Technica ATH-M series
+{{< tdclose >}}
+{{< tdopen >}}
+$50–$170
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+M20x, M30x, M40x, M50x
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD 25-1 II
+{{< tdclose >}}
+{{< tdopen >}}
+$170
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD 25-SP II
+{{< tdclose >}}
+{{< tdopen >}}
+$120
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sennheiser HD280 Pro
+{{< tdclose >}}
+{{< tdopen >}}
+$90
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shure SRH440
+{{< tdclose >}}
+{{< tdopen >}}
+$100
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K240 MKII
+{{< tdclose >}}
+{{< tdopen >}}
+$150
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K240 Studio
+{{< tdclose >}}
+{{< tdopen >}}
+$85
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+at Lewis Music Library
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K99
+{{< tdclose >}}
+{{< tdopen >}}
+$80
+{{< tdclose >}}
+{{< tdopen >}}
+semi-open
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K77
+{{< tdclose >}}
+{{< tdopen >}}
+$50
+{{< tdclose >}}
+{{< tdopen >}}
+semi-closed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AKG K44
+{{< tdclose >}}
+{{< tdopen >}}
+$30
+{{< tdclose >}}
+{{< tdopen >}}
+closed
+{{< tdclose >}}
+{{< tdopen >}}
+Phasing out of production
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Table 1: Some headphones suitable for use in this course
 
@@ -70,15 +257,132 @@ Audio Editing Software
 
 You will also require a digital audio editor, such as one of the software packages listed in the following table. The free open-source [Audacity](http://audacity.sourceforge.net/) editor (for Linux, Mac, Windows) is a perfectly reasonable choice, and is installed on several iMacs in the Lewis Music Library. A multichannel digital audio workstation (DAW) such as Reaper, Logic Pro, Pro Tools, or Ardour is beyond our needs, but if you already have access to one of these, you are welcome to use it for your editing.
 
-| AUDIO EDITING SOFTWARE | PLATFORMS | PRICE | DESCRIPTION |
-| --- | --- | --- | --- |
-| Audacity | Linux, Mac, Win | $0 | Open-source |
-| Hairersoft Amadeus Lite | Mac | $25 | Single-track |
-| Hairersoft Amadeus Pro | Mac | $60 | Multi-track |
-| Sony Sound Forge Audio Studio | Mac, Win | $60 | &nbsp; |
-| snd | Linux, (Mac) | $0 | For the adventurous |
-| Steinberg Wavelab Elements | Mac, Win | $100 | 1 month trial w / dongle |
-| Adobe Audition CC | Mac, Win | $20/month | 1 year subscription 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+AUDIO EDITING SOFTWARE
+{{< thclose >}}
+{{< thopen >}}
+PLATFORMS
+{{< thclose >}}
+{{< thopen >}}
+PRICE
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Audacity
+{{< tdclose >}}
+{{< tdopen >}}
+Linux, Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+$0
+{{< tdclose >}}
+{{< tdopen >}}
+Open-source
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hairersoft Amadeus Lite
+{{< tdclose >}}
+{{< tdopen >}}
+Mac
+{{< tdclose >}}
+{{< tdopen >}}
+$25
+{{< tdclose >}}
+{{< tdopen >}}
+Single-track
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hairersoft Amadeus Pro
+{{< tdclose >}}
+{{< tdopen >}}
+Mac
+{{< tdclose >}}
+{{< tdopen >}}
+$60
+{{< tdclose >}}
+{{< tdopen >}}
+Multi-track
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sony Sound Forge Audio Studio
+{{< tdclose >}}
+{{< tdopen >}}
+Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+$60
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+snd
+{{< tdclose >}}
+{{< tdopen >}}
+Linux, (Mac)
+{{< tdclose >}}
+{{< tdopen >}}
+$0
+{{< tdclose >}}
+{{< tdopen >}}
+For the adventurous
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Steinberg Wavelab Elements
+{{< tdclose >}}
+{{< tdopen >}}
+Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+$100
+{{< tdclose >}}
+{{< tdopen >}}
+1 month trial w / dongle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Adobe Audition CC
+{{< tdclose >}}
+{{< tdopen >}}
+Mac, Win
+{{< tdclose >}}
+{{< tdopen >}}
+$20/month
+{{< tdclose >}}
+{{< tdopen >}}
+1 year subscription
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Table 2: Some audio editors suitable for use in this course
 

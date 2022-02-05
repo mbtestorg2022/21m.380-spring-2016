@@ -68,7 +68,20 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 5% Written responses to readings{{< br >}}- 20% Two quizzes{{< br >}}- 40% Sound Design exercises and Pure Data assignments{{< br >}}- 10% Written assignment & Recording/Editing assignment{{< br >}}- 25% Final project in four parts (FP1-FP4){{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 5% Written responses to readings
+- 20% Two quizzes
+- 40% Sound Design exercises and Pure Data assignments
+- 10% Written assignment & Recording/Editing assignment
+- 25% Final project in four parts (FP1-FP4)
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Instructor Insights on Assessment
 
