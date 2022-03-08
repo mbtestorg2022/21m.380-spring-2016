@@ -8,6 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Learning Actively in Groups
+parent_type: CourseSection
+parent_uid: a759ba72-a24c-006c-4fff-f6421262d7d1
 resourcetype: Image
 title: steam train
 uid: 37a9f0d4-94bb-0d26-1a41-1aefec3022a9

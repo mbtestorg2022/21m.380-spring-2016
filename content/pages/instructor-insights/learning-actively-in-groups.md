@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Learning Actively in Groups
 uid: a759ba72-a24c-006c-4fff-f6421262d7d1

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Teaching with Technology (and Without)
 uid: 7d747e12-0f5b-8bc5-aceb-7df72a18708a

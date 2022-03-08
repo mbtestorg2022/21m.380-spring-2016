@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Engaging Deeply in the Design Process
 uid: cda34d48-5d89-c581-e892-74ad3eb6e8e4

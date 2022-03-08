@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b081e93a-ad70-36b9-ba45-f2818ea93148
 title: Assessing Student Learning in Creative Contexts
 uid: f6d57f01-33d4-3f79-7996-735fd247192d
