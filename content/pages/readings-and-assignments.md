@@ -19,13 +19,13 @@ Reading assignments detailed in the table below are drawn from the following sou
 
 *   **Note:** We will make extensive use of Andy Farnell's Pd examples, which accompany the _Designing Sound_ book and can be downloaded from the MIT Press website. Many of these Pd examples are referenced and linked within the course lecture notes; please see the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) page for detailed download and installation instructions.
 
-Chapters 1 and 9–14, which provide a practical introduction to Pd, are also available from the author's website: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Excerpt from Designing Sound (PDF)](http://aspress.co.uk/ds/pdf/pd_intro.pdf). Please note that the chapter numbers in this Excerpt version differ from those in the MIT Press textbook, and that the latter will be used for all references in the reading assignments schedule and any other course materials.
+Chapters 1 and 9–14, which provide a practical introduction to Pd, are also available from the author's website: [Excerpt from Designing Sound (PDF)](http://aspress.co.uk/ds/pdf/pd_intro.pdf). Please note that the chapter numbers in this Excerpt version differ from those in the MIT Press textbook, and that the latter will be used for all references in the reading assignments schedule and any other course materials.
 
 ### Additional Required Readings
 
 Anderson, Chris, et al. [_Film Sound Cliches: Film Sound Stereotypes and Common Logic Flaws_](http://www.filmsound.org/cliche/).
 
-Crawford, Chris. "The Computer as a Game Technology." Chapter 4 in _![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Art of Computer Game Design: Reflections Of a Master Game Designer (PDF)](http://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf)_. Osborne / McGraw-Hill, 1984, pp. 35–44. ISBN: 9780881341171. (Electronic edition of a text originally published in 1982.)
+Crawford, Chris. "The Computer as a Game Technology." Chapter 4 in _[The Art of Computer Game Design: Reflections Of a Master Game Designer (PDF)](http://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf)_. Osborne / McGraw-Hill, 1984, pp. 35–44. ISBN: 9780881341171. (Electronic edition of a text originally published in 1982.)
 
 Ament, Vanessa Theme. "What We Use for . . . Performing the Props." Chapter 8 in _The Foley Grail: The Art of Performing Sound for Film, Games, and Animation_. 1st ed. Focal Press, 2009, pp. 89–101. ISBN: 9780240811253. \[Preview with [Google Books](http://books.google.com/books?id=sE-I0xjti-YC&pg=PAfrontcover)\]
 
