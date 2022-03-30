@@ -17,7 +17,7 @@ Use a Visual to Navigate Stages of the Design Process
 
 For their [final project]({{< baseurl >}}/pages/readings-and-assignments#FP), students engage in the design process as outlined in Andy’s Farnell’s text _Designing Sound._  In this design process, students don’t write code immediately. Instead, they begin by analyzing, researching, and building models of the real-world sounds they hope to recreate.
 
-![Diagram of an ear surrounded by a circle of arrows connecting the stages of the design process: real-world example, analysis, requirements specification, research, model, method selection, implementation, and final design.](/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/instructor-insights/engaging-deeply-in-the-design-process/design_stages.png)
+{{< resource "dc9546d2-0d82-249b-e168-922424bd1865" >}}
 
 Sound design stages according to Andy Farnell (diagram by Florian Hollerweger).
 

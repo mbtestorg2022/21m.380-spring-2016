@@ -33,7 +33,7 @@ There are no specific prerequisites for this course. Prior programming experienc
 Course Entrance Questionnaire
 -----------------------------
 
-Because the course has a cap on maximum enrollment, students are selected for admission into the course via a [questionnaire (PDF)](/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/Syllabus/MIT21M_380S16_survey.pdf).
+Because the course has a cap on maximum enrollment, students are selected for admission into the course via a {{% resource_link "b0ebff77-383d-3b6a-3687-60fbe1c767d8" "questionnaire (PDF)" %}}.
 
 Required Hardware and Software
 ------------------------------
